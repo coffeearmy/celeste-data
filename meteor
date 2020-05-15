@@ -1,0 +1,81 @@
+{
+	"meteordata": [{
+			"name": "Quadrantids",
+			"code": "QUA",
+			"datePeak": "2021-01-02T00:00:00.000+00:00",
+			"dateInit": "2020-12-28T00:00:00.000+00:00",
+			"dateEnd": "2021-01-12T00:00:00.000+00:00",
+			"description": "The Quadrantids have the potential to be the strongest shower of the year but usually fall short due to the short length of maximum activity (6 hours) and the poor weather experienced during early January. The average hourly rates one can expect under dark skies is 25. These meteors usually lack persistent trains but often produce bright fireballs. Due to the high northerly declination (celestial latitude) these meteors are not well seen from the southern hemisphere.",
+			"radiant": "15:18 +49.5°",
+			"zhr": "110",
+			"velocity": "25 miles/sec (medium - 41km/sec)",
+			"parent": "2003 EH (Asteroid)",
+			"moon": "84.41% full"
+		},
+		{
+			"name": "Lyrids",
+			"code": "LYR",
+			"datePeak": "2021-04-21T00:00:00.000+00:00",
+			"dateInit": "2021-04-14T00:00:00.000+00:00",
+			"dateEnd": "2021-04-30T00:00:00.000+00:00",
+			"description": "The Lyrids are a medium strength shower that usually produces good rates for three nights centered on the maximum. These meteors also usually lack persistent trains but can produce fireballs. These meteors are best seen from the northern hemisphere where the radiant is high in the sky at dawn. Activity from this shower can be seen from the southern hemisphere, but at a lower rate.",
+			"radiant": "18:04 +34°",
+			"zhr": "18",
+			"velocity": "30 miles/sec (medium - 49km/sec)",
+			"parent": "C/1861 G1 (Thatcher)",
+			"moon": "67.58% full"
+		},
+		{
+			"name": "eta Aquariids",
+			"code": "ETA",
+			"datePeak": "2020-04-04T00:00:00.000+00:00",
+			"dateInit": "2020-04-19T00:00:00.000+00:00",
+			"dateEnd": "2020-04-28T00:00:00.000+00:00",
+			"description": "The Eta Aquariids are a strong shower when viewed from the southern tropics. From the equator northward, they usually only produce medium rates of 10-30 per hour just before dawn. Activity is good for a week centered the night of maximum activity. These are swift meteors that produce a high percentage of persistent trains, but few fireballs.",
+			"radiant": "22:32 -1°",
+			"zhr": "50",
+			"velocity": "42 miles/sec (swift - 66.9km/sec)",
+			"parent": "1P/Halley",
+			"moon": "91.17% full"
+		},
+		{
+			"name": "Southern delta Aquariids",
+			"code": "SDA",
+			"datePeak": "2020-07-28T00:00:00.000+00:00",
+			"dateInit": "2020-07-12T00:00:00.000+00:00",
+			"dateEnd": "2020-08-23T00:00:00.000+00:00",
+			"description": "The Delta Aquariids are another strong shower best seen from the southern tropics. North of the equator the radiant is located lower in the southern sky and therefore rates are less than seen from further south. These meteors produce good rates for a week centered on the night of maximum. These are usually faint meteors that lack both persistent trains and fireballs.",
+			"radiant": "22:40 -16.4°",
+			"zhr": "16",
+			"velocity": "26 miles/sec (medium - 41km/sec)",
+			"parent": "96P/Machholz?",
+			"moon": "66.45% full"
+		},
+		{
+			"name": "alpha Capricornids",
+			"code": "CAP",
+			"datePeak": "2020-07-28T00:00:00.000+00:00",
+			"dateInit": "2020-07-03T00:00:00.000+00:00",
+			"dateEnd": "2020-08-15T00:00:00.000+00:00",
+			"description": "The Alpha Capricornids are active from July 3 through August 15 with a plateau - like  maximum centered on July 29. This shower is not very strong and rarely produces in excess of five shower members per hour. What is notable about this shower is the number of bright fireballs produced during its activity period. This shower is seen equally well on either side of the equator.",
+			"radiant": "20:28 -10.2°",
+			"zhr": "5",
+			"velocity": "15 miles/sec (slow - 24km/sec)",
+			"parent": "169P/NEAT",
+			"moon": "66.45% full"
+		},
+		{
+			"name": "Perseids",
+			"code": "PER",
+			"datePeak": "2020-08-11T00:00:00.000+00:00",
+			"dateInit": "2020-07-17T00:00:00.000+00:00",
+			"dateEnd": "2020-08-24T00:00:00.000+00:00",
+			"description": "The Perseids are the most popular meteor shower as they peak on warm August nights as seen from the northern hemisphere. The Perseids are active from July 17 to August 24. They reach a strong maximum on August 12 or 13, depending on the year. Normal rates seen from rural locations range from 50-75 shower members per hour at maximum. The Perseids are particles released from comet 109P/Swift-Tuttle during its numerous returns to the inner solar system. They are called Perseids since the radiant (the area of the sky where the meteors seem to originate) is located near the prominent constellation of Perseus the hero when at maximum activity.",
+			"radiant": "03:12 +57.6°",
+			"zhr": "100",
+			"velocity": "37 miles/sec (swift - 60km/sec)",
+			"parent": "109P/Swift-Tuttle",
+			"moon": "47.13% full"
+		}
+	]
+}
